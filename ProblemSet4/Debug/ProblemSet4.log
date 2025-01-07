@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\TechFast Australia\source\repos\ProblemSet4\BinarySearchTree.h(59): warning C4715: 'BinarySearchTree<int>::insert': not all control paths return a value
+C:\Users\TechFast Australia\source\repos\ProblemSet4\BinarySearchTree.h(68): warning C4715: 'BinarySearchTree<int>::remove': not all control paths return a value
+C:\Users\TechFast Australia\source\repos\ProblemSet4\BinaryTreeNode.h(215): warning C4715: 'BinaryTreeNode<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::insert': not all control paths return a value
+C:\Users\TechFast Australia\source\repos\ProblemSet4\BinaryTreeNode.h(215): warning C4715: 'BinaryTreeNode<int>::insert': not all control paths return a value
+  ProblemSet4.vcxproj -> C:\Users\TechFast Australia\source\repos\ProblemSet4\Debug\ProblemSet4.exe

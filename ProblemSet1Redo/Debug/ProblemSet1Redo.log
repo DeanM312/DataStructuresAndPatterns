@@ -1,0 +1,3 @@
+﻿  Combination.cpp
+C:\Users\TechFast Australia\source\repos\ProblemSet1Redo\Combination.cpp(30,33): warning C4244: '*=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  ProblemSet1Redo.vcxproj -> C:\Users\TechFast Australia\source\repos\ProblemSet1Redo\Debug\ProblemSet1Redo.exe
